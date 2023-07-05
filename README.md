@@ -1,7 +1,7 @@
 <h1 align="center">Hola ✌🏼🙂, soy : Billy Torres</h1>
 <h3 align="center">Fronted Developer</h3>
 
-- 🌱 I’m currently learning **PostgreSQL y MongoJS**
+- 🌱 I’m currently learning **Java y Backend**
 
 - 💬 Ask me about **Javascript, Typescript y React.**
 
