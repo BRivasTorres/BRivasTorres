@@ -1,5 +1,5 @@
 # 💫 About Me:
-Trainee Fronted Web Developer.<br>I am always looking for new opportunities to learn and discover.<br>My goal is to contribute to the world of programming by creating innovative solutions and sharing knowledge with the community. Connect with me to explore the exciting universe of coding together!<br>🌱 I’m currently learning Java y Backend<br><br>💬 Ask me about Javascript, Tailwind, DSA and React.<br><br>📫 How to reach me btorresrivas75@gmail.com
+Trainee Frontend Web Developer.<br>I am always looking for new opportunities to learn and discover.<br>My goal is to contribute to the world of programming by creating innovative solutions and sharing knowledge with the community. Connect with me to explore the exciting universe of coding together!<br>🌱 I’m currently learning Java y Backend<br><br>💬 Ask me about Javascript, Tailwind, DSA and React.<br><br>📫 How to reach me btorresrivas75@gmail.com
 
 
 ## 🌐 Socials:
